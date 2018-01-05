@@ -20,6 +20,8 @@ public class SignUp extends AppCompatActivity {
 
     MaterialEditText edtPhone,edtName,edtPassword;
     Button btnSignUp;
+    //Kevin - 15.11.8531
+    //Danang - 15.11.8497
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -33,7 +33,7 @@ public class Home extends AppCompatActivity
     FirebaseDatabase database;
     DatabaseReference category;
 
-
+    //Anas - 15.11.8531
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

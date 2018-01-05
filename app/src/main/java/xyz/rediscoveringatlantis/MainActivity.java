@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnSignIn, btnSignUp;
     TextView txtSlogan;
-
+    //Danang - 8497
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
